@@ -16,13 +16,10 @@ You're up at 5AM for the 3rd night in a row, you either can't sleep or you keep 
 
 For a brief moment you consider making the short trek to 273 Soda Hall, and think again of that poem she once read to you out loud, when it was just you and her at the whiteboard; the board full of Bode plots, your markers empty of ideas.
 
-> And she who dwells with me, whom I have lov'd
-
-> With such communion, that no place on earth
-
-> can ever be a solitude to me,
-
-> Hath said, this lonesome Peak shall bear my Name
+And she who dwells with me, whom I have lov'd<br>
+With such communion, that no place on earth<br>
+can ever be a solitude to me,<br>
+Hath said, this lonesome Peak shall bear my Name<br>
 
 She is beyond your grasp. You let her go.
 
@@ -32,3 +29,4 @@ Submitted to r/berkeley on Fri Oct 20, 03:57:49 2017 UTC
 
 <https://www.reddit.com/r/berkeley/comments/77jpin/meditation_at_soda_hall>
 
+> Editors note: this isn't CSUA related, just an interesting piece of writing from the subreddit
