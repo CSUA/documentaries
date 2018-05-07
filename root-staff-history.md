@@ -20,21 +20,22 @@ Here are some links to posts that I've found so far.
 [3]: https://www.facebook.com/groups/csuahosers/permalink/10154395758704856/
 [4]: https://www.facebook.com/groups/csuahosers/permalink/10152430612724856/
 
-## Documentation on The Servers
+—Robert
 
-Minibar is deprecated in favor of minifridge
+## Physical Servers
 
-Minibar is stil connected to the old NFS server. The drives that are still
+CSUA owns a server rack in 340 Soda. We have a bunch of computers there.
+
+`minibar` is deprecated in favor of minifridge.
+
+`minibar` is stil connected to the old NFS server. The drives that are still
 spinning are functional but the old NFS disks are destroyed.
 
-All our active services run on two VMs on minifridge, `soda` and `tap`
+All our active services run on two VMs on `minifridge`, `soda` and `tap`
 
-The NFS mount is /dev/sdb, which is really a QEMU mapped hard drive.
+The NFS mount is `/dev/sdb`, which is really a QEMU mapped hard drive.
 
 The replacement NFS disks were used as a temporary solution in 2014, but now
-NFS is just some drives on minifridge.
+NFS is just some drives on `minifridge`.
 
-Nixclub belongs to CSUA, but it was not used during Caleb's time here.
-
-Questions:
-
+`nixclub` belongs to CSUA, but it was not used during Caleb's time here. No alumni from the April 2018 alumni lunch knew what the server was nor how to access it.
