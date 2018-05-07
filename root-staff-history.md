@@ -1,5 +1,11 @@
 # Notes on CSUA Root History/Tech Documentation
 
+## Root Staff History
+
+According to the holy scriptures, Root Staff has existed since the beginning of history.
+
+The VP of CSUA has historically been in charge of leading this group in their various technological exploits.
+
 ## 2014 RAID Crash Incident
 
 I've been reading about what happened to the CSUA server in 2014. 30 years of
