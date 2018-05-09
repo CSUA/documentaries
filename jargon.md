@@ -7,7 +7,7 @@ This file contains various utterances and tales from the most despicable CS unde
 
 A term exclaimed upon hosering something, whether it's food, tech swag or any form of volunteary or involuntary handout.
 
-#### Hoser (Except from the CSUA Encyclopedia)
+#### Hoser (Excerpt from the CSUA Encyclopedia)
 
 >Hosers -- those who hose. Typically, annoying computer users.
 >
