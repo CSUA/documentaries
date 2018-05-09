@@ -10,7 +10,9 @@ A term exclaimed upon hosering something, whether it's food, tech swag or any fo
 #### Hoser (Except from the CSUA Encyclopedia)
 
 >Hosers -- those who hose. Typically, annoying computer users.
+>
 >The origin of the word hosers is unknown, though many stories each claim to be the gospel. One says it comes from the movie Strange Brew. Another states it comes from hosier, which is a really old term meaning something about cutting other people's ears off. A third story claims that it comes from old Crays being "hosed" when their coolant hoses were accidently removed.
+>
 >Whatever the origin, hosers hose, and geeks battle against them.
 
 #### Server of many names
