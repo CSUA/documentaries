@@ -7,13 +7,21 @@ This file contains various utterances and tales from the most despicable CS unde
 
 A term exclaimed upon hosering something, whether it's food, tech swag or any form of volunteary or involuntary handout.
 
-#### Hoser
+#### Hoser (Except from the CSUA Encyclopedia)
+
+>Hosers -- those who hose. Typically, annoying computer users.
+
+>The origin of the word hosers is unknown, though many stories each claim to be the gospel. One says it comes from the movie Strange Brew. Another states it comes from hosier, which is a really old term meaning something about cutting other people's ears off. A third story claims that it comes from old Crays being "hosed" when their coolant hoses were accidently removed.
+
+>Whatever the origin, hosers hose, and geeks battle against them.
 
 #### Server of many names
 
 Sometime in 2016/2017, Sid Masih started work to get Nvidia to donate GPUs to the CSUA for use in a
-computing cluster for undergraduates. After a long period of work, they arrived in late 2017. The
-original names for the server, `smoothie` and `tesla`, were taken, and during GM 3 in fall 2017,
+computing cluster for undergraduates. The deal for 8x Tesla P100 cards was finalized by summer of 2017, 
+and Jonathan Tan worked with Silicon Mechanics to spec and purchase the rest of the server on the CSUA's behalf.
+After a long period of work, they arrived in late 2017. The original names for the server, 
+`smoothie` and `tesla`, were taken, and during GM 3 in fall 2017,
 members were asked to propose names. Nithin Raghavan proposed `Maersk` after the shipping company of
 the same name due to the fact that the computing server would run "containers". An abuse of root
 staff privileges led to this being the official name for a few months until Robert Quitt suggested
