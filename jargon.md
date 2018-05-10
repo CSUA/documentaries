@@ -60,7 +60,7 @@ There is a feature that allows members to add custom emoji. This has spawned man
 
 #### Slack - \#nsfwrandom
 
-Created October 11 2016 and archived February 6 2017, \#nsfwrandom was represented a dark time in CSUA Slack history. Let's just say there was some very questionable content here. 
+Created October 11 2016 and archived February 6 2017, \#nsfwrandom was a quarantine for some objectionable content on the CSUA Slack. 
 
 #### League of Legends Club
 
