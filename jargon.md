@@ -50,7 +50,17 @@ repo admins, this repo is also decentralized. The currency has laughably bad sec
 an automated Travis CI check to prevent currency inflation. Since it has a green `build passed`
 badge, it must be legit!
 
-#### Slack reacts
+#### Slack
+
+Sometime ago, by decree of the VP of Tech, the CSUA Slack was born. According to the creation date of \#announcments, it's been around since December 30, 2014, when Alex Chu grabbed the name `csua.slack.com`.
+
+The CSUA Slack is where most communication is done by the Politburo and officers. It is where a lot of internal announcements are made.
+
+There is a feature that allows members to add custom emoji. This has spawned many emoji being developed for the CSUA Slack, including officer portraits and various memes.
+
+#### Slack - \#nsfwrandom
+
+Created October 11 2016 and archived February 6 2017, \#nsfwrandom was represented a dark time in CSUA Slack history. Let's just say there was some very questionable content here. 
 
 #### League of Legends Club
 
@@ -69,3 +79,11 @@ badge, it must be legit!
 #### Officer points
 
 #### Artefacts
+
+#### Computers
+
+The CSUA has had a tradition of naming computers thematically, with the current generation VPs opting for a drink theme. Some of the machines have histories of their own.
+
+**Vokda**: Won by a team represnting Cal at the NVIDIA Geforce Rivalries tournament against the school across the bay, circa November 2012. [Photo][1]. Vodka has written on her case that Bill Cao captained a team with Avi Patel, Ralph Arroyo, Daniel Koomarey, and Paul Levchenko.
+
+[1]: https://www.facebook.com/NVIDIAGeForce/photos/a.515583411794454.123247.130554466964019/515635985122530/?type=3&theater
