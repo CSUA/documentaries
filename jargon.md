@@ -17,15 +17,15 @@ A term exclaimed upon hosering something, whether it's food, tech swag or any fo
 
 #### Server of many names
 
-Sometime in 2016/2017, Sid Masih started work to get Nvidia to donate GPUs to the CSUA for use in a
+Sometime in 2016/2017, sid.masih started work to get Nvidia to donate GPUs to the CSUA for use in a
 computing cluster for undergraduates. The deal for 8x Tesla P100 cards was finalized by summer of 2017, 
-and Jonathan Tan worked with Silicon Mechanics to spec and purchase the rest of the server on the CSUA's behalf.
+and jonathanjtan worked with Silicon Mechanics to spec and purchase the rest of the server on the CSUA's behalf.
 After a long period of work, they arrived in late 2017. The original names for the server, 
 `smoothie` and `tesla`, were taken, and during GM 3 in fall 2017,
-members were asked to propose names. Nithin Raghavan proposed `Maersk` after the shipping company of
+members were asked to propose names. rnithin proposed `Maersk` after the shipping company of
 the same name due to the fact that the computing server would run "containers". An abuse of root
-staff privileges led to this being the official name for a few months until Robert Quitt suggested
-`latte`. After a month of running as `latte` during it's development period, Mark Hill made a cron
+staff privileges led to this being the official name for a few months until robertq suggested
+`latte`. After a month of running as `latte` during it's development period, mark64 made a cron
 job to change the server's name to a random word from `/usr/share/dict/words` every 3 hours, thereby
 avoiding anymore naming discussions.
 
@@ -52,7 +52,7 @@ badge, it must be legit!
 
 #### Slack
 
-Sometime ago, by decree of the VP of Tech, the CSUA Slack was born. According to the creation date of \#announcments, it's been around since December 30, 2014, when Alex Chu grabbed the name `csua.slack.com`.
+Sometime ago, by decree of the VP of Tech, the CSUA Slack was born. According to the creation date of \#announcments, it's been around since December 30, 2014, when alchu grabbed the name `csua.slack.com`.
 
 The CSUA Slack is where most communication is done by the Politburo and officers. It is where a lot of internal announcements are made.
 
