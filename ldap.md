@@ -1,3 +1,4 @@
+```
 Change password of arbitrary user:
 #!/bin/bash
 # changeldappasswd.sh
@@ -19,3 +20,5 @@ Make sure you're on root staff! This is normally located in /csua/changeldappass
 
 To see the olcRootDN and olcRootPW:
 sudo ldapsearch -H ldapi:// -LLL -Q -Y EXTERNAL -b "cn=config" "(olcRootDN=*)" dn olcRootDN olcRootPW
+
+```
