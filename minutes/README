@@ -1,0 +1,19 @@
+These minutes are from the Google Drive. At some point in the past, CSUA moved
+to using Google Drive. This has made it a bit harder to find meeting minutes,
+since they aren't publicly available and indexed.
+
+To generate these files, I (robertq[uitt]) did the following:
+
+- Downloaded a ZIP file of the meeting minutes from Google drive
+
+Used these commands:
+
+find . -name \*.docx -exec pandoc {} -o {}.md;
+find . | rename 's/ /_/g'
+find . | rename 's/.docx.html$/.html/g'
+
+To search for something:
+
+grep -R . -e troll
+
+Use -B # for lines before, -A # for after, -C # for lines around

@@ -1,0 +1,171 @@
+11/5 Meeting Minutes
+
+Attend: Austin, Jason, Sanath, Sid, Allen, Leo, Yika, Megan, Nathan,
+Michelle, Kevin, Neil
+
+-   Hackathon +/Δ
+
+    -   \+
+
+        -   food good
+
+        -   good turnout
+
+        -   good judges
+
+        -   good submissions
+
+    -   Δ
+
+        -   big game day - not ideal
+
+        -   halloween not ideal
+
+        -   prizes up beforehand
+
+        -   NOT ENOUGH HELP with setup/cleanup
+
+        -   submissions?
+
+        -   some way to keep track of participants? wristband
+
+-   NerdWallet +/Δ
+
+    -   \+
+
+        -   Lots of interest
+
+    -   Δ
+
+        -   turned away many
+
+        -   very specific on accommodation
+
+-   GM \#2 +/Δ
+
+    -   \+
+
+        -   great speaker, passionate
+
+        -   turnout: 20-30, people stayed.
+
+    -   Δ
+
+        -   late signup sheet
+
+        -   would like more free swag!
+
+-   TetrationAnalytics Infosession
+
+    -   Food
+
+        -   someone front money (Claire, Ana?)
+
+        -   jack might be driving, otherwise claire
+
+        -   Drinks run?
+
+    -   Flyer
+
+        -   eranda: post them up
+
+    -   Facebook
+
+        -   created
+
+-   Root Day
+
+    -   11/15 320 Soda
+
+        -   3-6 PM potentially
+
+        -   Austin: Ping Caleb
+
+-   LAN with HKN
+
+    -   Susanna
+
+-   Pinterest Tech Talk
+
+    -   Do we want to work with Pinterest?
+
+        -   Works with many groups
+
+        -   We're not getting anything out of it
+
+        -   Worth risking? But we might look really good if other groups
+            > mess up
+
+        -   Jason: tell pinterest that we're technically in charge of
+            > the room
+
+        -   TALK ABOUT THIS NEXT WEEK\*\*\*\*
+
+-   Redbull Destiny tournament
+
+    -   Jason: ask if they need us to publicize
+
+    -   Jason: contact ESAB
+
+-   Office Misc
+
+    -   New arrangement +/Δ
+
+        -   \+
+
+            -   looks good, people complimented
+
+        -   Δ
+
+            -   Side tables right now used to just hold stuff.
+
+            -   Monitors too close to faces -\> wider table?
+
+            -   possible issue with sofas? also they're gross
+
+        -   new table to replace the wood-grain one??
+
+            -   2 tables? wider table (deeper)?
+
+            -   2 tables so that not all 4 people feel table shaking
+
+            -   Ana?
+
+        -   new chairs??
+
+            -   Ana: 6 small chairs for computers. Definitely want.
+
+            -   CSUA Ikea trip? hype
+
+        -   small table for microwave??
+
+        -   Ana: wire tubing for ground ethernets, other stuff. Ask
+            > sanath
+
+        -   Ana: Buy compressed air duster
+
+        -   Computers back to back - might be issue, get tables first.
+
+    -   Officer/Prospective officer policy proposal
+
+        -   See Austin's drafted proposal
+
+        -   Vote next week
+
+        -   Need better notifications/transparency with Prosp.officers
+            > about PB meetings.
+
+        -   MASTER CALENDAR? great idea. Ty Sid.
+
+        -   next semester: Give PB door code only; then, for officers
+            > who show up to their office hours, give them the door
+            > code.
+
+        -   Possible card key scanner instead of door code??
+
+    -   Officer Event-help proposal
+
+    -   Security - door locked 24/7 +/Δ
+
+    -   PLZ NO FOODS AT COMPUTERSSSSSS!!!!1! -\> why not just push the
+        > keyboard forward when we eat?

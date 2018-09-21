@@ -1,0 +1,267 @@
+10/15/15 Meeting Minutes
+
+Attendance: Rodney, Kevin, Austin, Barak, Neil, Megan, Susanna, Jason,
+Caleb, Ana, Claire, Angela
+
+Latey-mc-late-pants: Yits, Robert, Michelle,
+
+Microsoft Tech Talk
+
+-   Pluses/Deltas
+
+    -   Pluses:
+
+        -   Great Speaker
+
+    -   Deltas:
+
+        -   Weird time - maybe not the best for people
+
+Movie Night with UPE (10/16/15 6-9 PM)
+
+-   Burritos! They were ordered by UPE
+
+    -   attendance on FB was 40ish people -\> ordered 20
+
+-   UPE is doing snacks/drinks
+
+-   UPE is getting the movie
+
+-   In HP Auditorium
+
+Cast Light Infosession (10/9 from 7-9 in Woz)
+
+-   Made a facebook event
+
+    -   need to push to other groups
+
+-   Make sure that Atalie has printed flyers; check that Eranda posted
+    > them
+
+-   Food:
+
+    -   they wanted Sliver; need someone to pick up
+
+    -   no one can make it for pickup -\> just order delivery
+
+Twitch Recruiting Event (10/28)
+
+-   They wanted Pizza??
+
+    -   Megan will check and confirm
+
+-   There are flyers for the Twitch Event in the office
+
+    -   Eranda has been posting them
+
+-   Facebook Event??
+
+    -   Figure out all the details; create ASAP
+
+Pinterest Event:
+
+-   Event has been rescheduled to 12/4???
+
+    -   will check with them further
+
+-   They want to work with four student groups
+
+    -   will make it a lot of trouble
+
+    -   we could pull out and it will be fine
+
+-   Megan will put the event down for 12/4, and then we will check with
+    > them later in November
+
+NerdWallet Infosession (11/3 6-8 in the Woz)
+
+-   Megan will follow up with recruiter about logistics
+
+    -   time, date, food;
+
+    -   let Atalie know
+
+Destiny with Redbull (11/18)
+
+-   They said that they just wanted a room??
+
+    -   Let\'s get a contract anyway
+
+    -   They think that they are doing their own catering
+
+Intuit Contract:
+
+-   Intuit just wants to work with Phi Sigma Rho
+
+    -   PSR has a contract, and they are going to send it to Intuit
+
+    -   We would like Jason to be in on the email
+
+-   Intuit will pay PSR through PayPal
+
+    -   PSR will write a check to the CUSA
+
+-   We want to meet with PSR so that we can figure things out in person
+
+    -   see if they can come to the PB meeting next week??
+
+Hackathon:
+
+-   Jason will email everyone who was at the early bird startup fair
+
+-   Statefarm and Microsoft both seem like a bust
+
+-   Want to get the flyers out next week
+
+    -   Megan designed an epic flyer
+
+-   Judges
+
+    -   usually goes with Sponsorships
+
+    -   Meraki is willing to send judges
+
+    -   Google is willing to send judges
+
+-   PRIZES!!
+
+    -   \$200-150 for 1st place
+
+    -   \$150-100 for 2nd
+
+    -   \$75 for third
+
+-   Prize Ideas:
+
+    -   Raspberry Pis
+
+    -   Monitor
+
+    -   Headphones
+
+    -   Mice
+
+    -   Hoverboard
+
+    -   Riot Giftcard/Amazon Giftcard
+
+    -   mechanical keyboard
+
+    -   kindle fires
+
+    -   external hard drive
+
+-   Timeline:
+
+    -   5:30 - advertised start
+
+    -   6:00 - actual hacking start
+
+    -   7:00 - dinner
+
+    -   12:00 - midnight sushi
+
+    -   8:00 - Noah\'s Bagels
+
+    -   12:00 - Hacking Stop/Lunch time
+
+    -   12:30 - Presentation Start/Hacking Stop
+
+    -   1:30 Judging
+
+-   Want to have Halloween themed
+
+    -   spookiest hack of them all!
+
+    -   have candy
+
+    -   decorate
+
+-   Want to have facebook event/Posters out by Sunday
+
+-   Piazza posts!
+
+-   Class announcements!
+
+-   Austino needs to make a website for the hackathon
+
+GM 2 (11/4):
+
+-   Speaker??
+
+    -   still no speaker -\> still looking
+
+    -   topic?
+
+        -   do we want a techtalk or more of an industry experience\>
+
+    -   worst case: Colin speaks
+
+    -   Industry \> Professor \> Alumni
+
+-   Food?
+
+ROOT DAY!!
+
+-   Austino will send out a poll and then we can pick a date
+
+Office Misc:
+
+-   Server
+
+    -   We need a new one -\> physical hardware
+
+    -   long term project
+
+    -   Student Technology fund:
+
+        -   ASUC money; funds student orgs
+
+    -   We should submit this application
+
+-   Work Priority??
+
+    -   We'll talk about this next week
+
+    -   what is the definition of "work"?
+
+        -   is it okay if someone watches a stream, etc, while working?
+
+        -   what counts as work? everything? just UCB?
+
+    -   What does it mean when we say we "prioritize" work?
+
+ACTION ITEMS:
+
+Megan:
+
+-   Check that the Eranda has posted flyers for the Cast Light
+    > Infosession
+
+-   check with Pinterest about rescheduling
+
+-   Email NerdWallet; check with Atalie
+
+-   Figure out the Hackathon facebook/poster stuff
+
+Eranda:
+
+-   create a facebook event for the Twitch Recruiting Event by next week
+
+Jason:
+
+-   check with Redbull on the details of the Destiny event
+
+    -   food, logistics, contract, etc
+
+-   Make sure you get in on the PSR email to Intuit
+
+    -   check to see if PSR can make it to next week's meeting
+
+Austino:
+
+-   make a website for the hackathon by this Sunday
+
+-   submit the application to the Student Technology Fund
+
+-   send out a doodle poll for people to sign up for Root Day

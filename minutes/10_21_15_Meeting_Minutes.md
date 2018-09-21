@@ -1,0 +1,219 @@
+10/21/15 Meeting Minutes
+
+Attendance: Austino, Leo, Megan, Neil, Barak, Kevin, Yitz, Sid, Jason,
+Susanna, Ana, Claire, Angela
+
+Castlight Infosession:
+
+-   Pluses/Deltas:
+
+    -   Pluses:
+
+        -   Turn out was fine
+
+    -   Deltas:
+
+        -   Cavier screwed up and didn't give us enough food
+
+        -   fixed it!
+
+            -   Lets just not use Cavier for delivery anmore.
+
+Movie Night with UPE:
+
+-   Pluses/Deltas:
+
+    -   Pluses:
+
+        -   decent turn out (\~20)
+
+        -   people talked between the clubs
+
+        -   food was good
+
+    -   Delta:
+
+        -   Movie choice could have been a lot better
+
+        -   delivery food was kinda weird
+
+        -   didn't have a key to get table out of HP storage room
+
+        -   no sign up sheet for officers to help out
+
+Twitch Infosession (10/28):
+
+-   Twitch wants sliver and veggi/vegan/gluten free
+
+    -   Sliver + Salad ??
+
+    -   can we confirm with them to see what they want to do
+
+    -   aiming for 100 people
+
+    -   
+
+-   Drinks?
+
+    -   pick up drinks on the hackathon run this next Tuesday
+
+Hackathon (10/29 - 10/30):
+
+-   PRIZES?!?!?!
+
+    -   1st Prize: Monitors (\$150 - \$200)
+
+    -   2nd Prize: Headphones (\$100 - \$150)
+
+    -   3rd Prize: External Harddrive (\$50 - \$100)
+
+    -   Want to do something like honorable mention?
+
+        -   We have Chromecasts in the back -\> want to get rid of them
+
+        -   could also buy some raspberry pis
+
+        -   just pick four teams -\> "honorable mention"
+
+-   Judges:
+
+    -   Jason reached out to Microsoft, Google, Pinterest, Meraki
+
+    -   Jason will email some more companies
+
+        -   Call Meraki soon
+
+    -   Will ask for alumni by next Tuesday
+
+-   Finalize the poster
+
+    -   add the ADA/ASUC thingy to the bottom
+
+    -   print and post!
+
+-   In class announcements:
+
+    -   make a spreadsheet and someone needs to go do it
+
+    -   make facebook posts in different groups
+
+-   Food:
+
+    -   Costco Pizza for dinner
+
+    -   midnight sushi
+
+    -   Noah's in the morning
+
+    -   LaVals for lunch
+
+        -   wanted to get sandwiches, but they're not that great from
+            > LaVals
+
+        -   could replace it with Indian food?
+
+        -   Thai food?
+
+        -   Gyros?
+
+        -   Burrrriiiitos!
+
+        -   Think that we are going to do half and half Montegue's and
+            > LaVaals
+
+    -   Want to order this weekend/early this week
+
+-   Logistics:
+
+    -   Megan is going to pick up some Halloween stuff this weekend!!
+
+-   Website:
+
+    -   Austino needs to make the website before this Sunday
+
+NerdWallet (11/3):
+
+-   Still haven't responded?
+
+-   Megan will email them again and see what's up
+
+GM2 (11/4 6:30 - 10):
+
+-   Jeff Atwood Speaking
+
+    -   Susanna will ask him what he wants to talk about so we can
+        > publicize
+
+-   Food?
+
+    -   still undecided
+
+-   Flyer?
+
+    -   get it out and posted by next Wednesday
+
+-   Facebook event has been pushed
+
+    -   add that Jeff Atwood is the cofounder of StackOverflow
+
+Office Misc:
+
+-   Re-arrange the office:
+
+    -   Ana is in charge
+
+    -   See the email for the new layout
+
+    -   will be happening on 10/31 at 10 AM
+
+    -   deep clean office
+
+-   Work??
+
+    -   going to get a written proposal from Neil/Sanath
+
+    -   No real way to really distinguish what's work and what's not
+
+    -   if we rearrange the room for work space/computer space
+
+        -   desktops are more of a first come - first serve
+
+        -   still reasonable to ask someone to use the computer to work
+
+ACTION ITEMS:
+
+Megan:
+
+-   contact Twitch and see what they want to do about the gluten
+    > free/veggi options
+
+-   post the hackathon facebook event in different groups
+
+-   find out who is going to be coming up to Berkeley with a car and
+    > when, etc.
+
+-   follow up with NerdWallet
+
+Jason:
+
+-   contact more companies for a hackathon judge
+
+-   call Meraki about hackathon judge
+
+Eranda:
+
+-   Print and post the hackathon posters
+
+-   post the GM2 flyers by next Wednesday (6:30 - 10)
+
+Austino:
+
+-   Create a hackathon website
+
+Susanna:
+
+-   check with Jeff to see what he wants to talk about at the meeting
+
+Ana:
+
+-   Office re-arrangement!

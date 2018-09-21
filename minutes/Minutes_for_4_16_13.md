@@ -1,0 +1,194 @@
+Minutes for 4/16/13
+
+Agenda:
+
+1\. Jobs mailing list
+
+2\. workshops
+
+3\. Cal day table
+
+4\. Ice cream social
+
+5\. faculty retreat
+
+6\. Brian Harvey "retiring"
+
+7\. 5 person pb
+
+8\. office buy list
+
+1\. Ice Cream Social
+
+a\. Nate will bring the liquid nitrogen
+
+b\. Pedro and Eric will buy the supplies
+
+c\. Hina has been advertising
+
+2\. Jobs mailing list
+
+a\. Do we want a mailing list to send out job listings?
+
+> b\. Lets clear the mailing list, and send an email to announce to see if
+> they want to be on this mailing list,
+
+c\. It will be Indrel's job to send the job postings to announce
+
+3\. Workshops
+
+a\. Should we look into having workshops akin to what H\@B does?
+
+b\. Would people be interested?
+
+c\. What would people be interested in?
+
+> d\. Nate suggests doing a workshop with CSUA alum speaking about industry
+> experience
+>
+> e\. Jeff will reserve the room
+
+4\. Cal Day Table
+
+a\. We will be having a table infront of 306 SODA with our banner
+
+b\. we will also be giving tours
+
+c\. will be selling drinks as well
+
+5\. Faculty Retreat
+
+a\. This Thrusday, Hina is going
+
+b\. Is held in some hotel? Far away? unclear
+
+c\. Is there anything we want to bring up to faculty?
+
+1\. nope
+
+6\. Brian Harvey Retiring..ahem.."retiring"
+
+a\. Rahul wants to have something for him, like an event
+
+b\. Take him to dinner
+
+c\. Make it a dinner with professors
+
+d\. Rahul will be in charge of this
+
+e\. Apparently Harvey can no longer eat Dim Sum due to doctor's orders
+
+7\. Office Buy List
+
+a\. Bananagrams \-- yes!
+
+b\. Chess set \-- yes!
+
+c\. Avalon \-- yes, give to Han
+
+d\. Taboo \-- no
+
+e\. cards against humanity \-- yes
+
+f\. new hoser fridge
+
+a\. repair current fridge or throw it away
+
+g\. camera for taking pictures
+
+a\. point and shoot, cheapo digital camera
+
+b\. yeah, why not, \$100 budget
+
+h\. vacuum cleaner
+
+a\. No, we can borrow one from the department
+
+i\. Zip car membership
+
+a\. we would have to have one person with a zipcar account
+
+j\. Clock \-- yes
+
+8\. Costco Delivery
+
+a\. should we have costco deliver?
+
+b\. We wouldn't be able to get frozen food
+
+c\. Make it easier on those who do costco runs
+
+9\. Rackspace Open Stack Training Session (4 days)
+
+a\. What is our contribution?
+
+1\. they are paying?
+
+b\. Andy will look into it, Mary will help as well
+
+c\. May be hard to do this semester as not much time is left
+
+d\. We will look into this for next semester
+
+10\. Google Glass
+
+a\. we are on the pre-order list, do we still want to pay for them?
+
+b\. about \$1,200
+
+c\. Would be available for people to program for
+
+d\. may be used to advertise for the club
+
+e\. We could hold a semester-long competition for coding for these
+
+f\. what do we want to do with them?
+
+a\. feature them for Hack+ nights
+
+11\. AirBears
+
+a\. get a wired AirBears port?
+
+> b\. Collin will be in charge of setting up and sending out a form about
+> switching internet connection to 5 Ghz
+
+12\. Five Person Politburo
+
+a\. Do we want to create a proposal for an amendment for this
+
+b\. pros
+
+1\. closer knit group
+
+2\. More accountability
+
+3\. easier communication/less bureaucracy
+
+c\. cons
+
+1\. more work for position
+
+2\. Less positions for people who want to help out
+
+d\. We should open up this discussion for officers
+
+e\. politburo would be successful whatever the size if people just
+contribute
+
+f\. what actually is the distinction between politburo and officers
+
+g\. Should we have a town-hall to discuss this?
+
+1\. We would need a time for people to meet, and a place
+
+2\. Talk about the direction of the club, etc
+
+3\. Have it during dead week, or before GM3
+
+4\. Nate will be in charge of planning the moderation of the townhall
+meeting
+
+13\. Approve Officers
+
+a\. Cherie is now an officer!

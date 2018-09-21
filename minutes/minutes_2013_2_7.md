@@ -1,0 +1,164 @@
+agenda:
+
+> 1\. GM1
+>
+> \- discussion points
+>
+> \- activities (guest speaker/board games)
+>
+> 2\. new officer applications
+>
+> 3\. new meeting time
+>
+> 4\. CSUA shared gmail account?
+>
+> 5\. CFG1
+>
+> 6\. card access
+>
+> 7\. computers
+>
+> 8\. alumni coordinators
+>
+> 9\. that 86-long email thread
+>
+> 10\. paintball with HKN
+>
+> Paintball date?
+>
+> saturday at the end of spring break possibly
+>
+> people may not be available during their spring break
+>
+> Camping trip during spring break
+>
+> it has happened in the past
+>
+> is a lot of work to organize, etc
+
+GM1
+
+advertising
+
+Pedro has advertising to classes
+
+posters?
+
+nope
+
+outreach?
+
+Demi\--not in the club, not in the university, was not in the major
+
+maybe she can still take on the role
+
+still have an election
+
+officer involvement
+
+trying to get people interested in taking on leadership next semester
+
+get all officers to reapply
+
+all officers need to submit a picture as well
+
+new officers
+
+Devin and shrayus are now officers
+
+CSUA shared gmail
+
+Jeffery's idea. wants a shared gmail account
+
+wants a shared CSUA folder \--we have it
+
+and an archive for non-current stuff in the present folder
+
+move all of the dropbox stuff into the Google drive folder
+
+let all officers have access to some of the information
+
+Card Key Access
+
+only events officers and president gets access to the Woz
+
+Pedro and Jeffery need access to Soda
+
+ask for another events person to have access to the Woz
+
+to get woz access
+
+> get and fill out a form from the front desk and get a professor to
+> sign the form, then we can get access
+
+computers
+
+viris computer
+
+computer with broken graphics card
+
+missing computer
+
+Zach has a list of components used in the past
+
+\$600 for a computer set up
+
+Nate and pedro will head up fixing the broken and missing computer
+
+parts here by next politburo meeting
+
+Zach will wipe and flash the virus ridden computer
+
+will be done by the next politburo meeting
+
+alumni coordinators
+
+Sam and Jessica will organize and advertise alumni events
+
+would need money to organize the meet ups (meetup)
+
+\$144 a year
+
+mostly social, some networking events
+
+facebook events is also an option
+
+money approved if all events are open to current CSUA members
+
+mailing lists
+
+Zach will add everyone from Calapalooza to the mailing list
+
+I will resend him the list of people
+
+possibly redo the entire mailing list structure
+
+talk about this again
+
+Coding4Grub
+
+In two weeks!
+
+Roblox (iPhone games company) wants to sponsor the coding for grub
+
+make sure we get confirmation ASAP
+
+Get ready to advertise
+
+Hackathon
+
+In a month
+
+no sponsors yet
+
+Will talk to yelp
+
+Hack+
+
+are these happening?
+
+Jeff tried to reserve all of the sundays, only 3 or 4 were allowed
+
+Jeff will look into what is going on, and talk to David Culler
+
+He will see what he can do
