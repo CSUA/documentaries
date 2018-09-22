@@ -10,7 +10,7 @@ Used these commands:
 
 find . -name \*.docx -exec pandoc {} -o {}.md;
 find . | rename 's/ /_/g'
-find . | rename 's/.docx.html$/.html/g'
+find . | rename 's/.docx.md$/.md/g'
 
 To search for something:
 
