@@ -1,7 +1,9 @@
 Constitution
 ============
 
-(As of Spring 2018)
+As of Spring 2018. This should not be used for reference, our official constitution is available via [CalLink].
+
+[callink]: https://callink.berkeley.edu/organization/CSUA
 
 Article I.
 ---
