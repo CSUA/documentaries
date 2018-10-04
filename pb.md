@@ -18,6 +18,6 @@ The politburo is the executive committee of the CSUA.
 |Spring 2016|Ana Shuler|Caleb Wyllie|Jason Tu|Ana/Yitz Deng|Kara Gieseking|Michelle Hsueh|Sid Masih|
 |Fall 2016|Megan Zhu|Caleb Wyllie|Sid Masih|Yitz Deng|Barak Zhou|Neil Lingarkar|Julie Chen|
 |Spring 2017|Megan Zhu|Caleb Wyllie|Sid Masih|Yitz Deng|Barak Zhou|Neil Lingarkar|Michelle Hsueh|
-|Fall 2017|~Megan Zhu~ Jonathan Tan|~Jonathan Tan~ Robert Quitt|Eric Hou|Yitz Deng|Ray Pan|~Neil Lingarkar~  Jason Ji|~Emily Gosti~ ~Robert Quitt~ Jessica Kuo|
+|Fall 2017|~~Megan Zhu~~ Jonathan Tan|~~Jonathan Tan~~ Robert Quitt|Eric Hou|Yitz Deng|Ray Pan|~~Neil Lingarkar~~  Jason Ji|~~Emily Gosti~~ ~~Robert Quitt~~ Jessica Kuo|
 |Spring 2018|Megan Zhu|Robert Quitt|Anna Brewer|Ray Pan|Daniel Wu|Arthur Kazantsev|Jessica Kuo|
 |Fall 2018|Daniel Wu|Mark Hill|Ben Wu|Ray Pan|Sophie Wen|Ani Nrusimha|Jessica Kuo|
