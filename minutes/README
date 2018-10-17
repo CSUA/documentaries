@@ -2,15 +2,31 @@ These minutes are from the Google Drive. At some point in the past, CSUA moved
 to using Google Drive. This has made it a bit harder to find meeting minutes,
 since they aren't publicly available and indexed.
 
-To generate these files, I (robertq[uitt]) did the following:
+This is how to create these files:
 
-- Downloaded a ZIP file of the meeting minutes from Google drive
+- Download a ZIP file of the meeting minutes from Google drive
+  - Use the "search" function and then download as zip
 
-Used these commands:
+Use these commands:
 
 find . -name \*.docx -exec pandoc {} -o {}.md;
 find . | rename 's/ /_/g'
 find . | rename 's/.docx.md$/.md/g'
+
+However, there can be some complications dues to the way docx is handled.
+
+So there's a way to fix it. Do this instead:
+
+find . | rename 's/ /_/g'
+find . | rename 's/.docx.md$/.md/g'
+find . -name \*.docx -exec convert.sh {} {}.md;
+
+contents of convert.sh:
+
+#!/bin/bash
+
+pandoc $1 -t html | sed 's/<\/\?blockquote>//' | pandoc -f html -t markdown | sed 's/\\@/@/' > $2
+
 
 To search for something:
 

@@ -1,1 +1,16 @@
-theme: jekyll-theme-hacker
+ignore:
+  - README.md
+
+defaults:
+  -
+    scope:
+      path: "minutes"
+    values:
+      layout: "post"
+      type: "minutes"
+  -
+    scope:
+      path: "root"
+    values:
+      layout: "post"
+      type: "root"

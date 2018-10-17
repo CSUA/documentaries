@@ -1,8 +1,6 @@
-# Copypasta
-
-Sometimes I find it funny how much time people spend making replies. Here
-are some that are outrageous, the ones that make me think: why did you
-spend so long writing this?
+---
+title: Copypasta
+---
 
 ## Classic RMS
 
@@ -31,7 +29,7 @@ spend so long writing this?
 
 ## CSUA from '02
 
-I found this on the old usenet archives.
+Found this on the old usenet archives.
 
 ---
 

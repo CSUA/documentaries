@@ -1,7 +1,10 @@
-The Jargon File
-===============
+---
+title: Jargon
+---
 
-This file contains various utterances and tales from the most despicable CS undergrad association on campus.
+# The Jargon File
+
+This file contains various utterances and tales from the oldest CS undergrad association on campus.
 
 #### "Oh sh\*\*, hoser"
 

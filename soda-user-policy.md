@@ -1,3 +1,6 @@
+---
+title: Soda User Policy (1995)
+---
 # General User Policy -- Soda.CSUA.Berkeley.CSUA
 
 This document describes the general user policy of

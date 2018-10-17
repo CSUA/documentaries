@@ -1,3 +1,6 @@
+---
+title: Root History
+---
 # Notes on CSUA Root History/Tech Documentation
 
 ## Root Staff History
@@ -45,3 +48,9 @@ The replacement NFS disks were used as a temporary solution in 2014, but now
 NFS is just some drives on `minifridge`.
 
 `nixclub` belongs to CSUA, but it was not used during Caleb's time here. No alumni from the April 2018 alumni lunch knew what the server was nor how to access it.
+
+## Great Tech Purge of 2018: "Wrath of Mark "Blockchain" Hill"
+
+On October 16, 2018, `nixclub` (`linux.csua.berkeley.edu`) and other machines were deemed too old and unused and were tossed. The only remaining mahcines on the racks are `minifridge` and `latte`. `nfs` is still around, in hopes that its data may one day be recovered.
+
+During this purge, Mark and Robert talked to Jon, an alum, who told them that the CSUA used to occupy 3 racks in Soda 340.
