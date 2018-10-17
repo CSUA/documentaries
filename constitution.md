@@ -1,5 +1,6 @@
-Constitution
-============
+---
+title: Constitution
+---
 
 As of Spring 2018. This should not be used for reference, our official constitution is available via [CalLink].
 

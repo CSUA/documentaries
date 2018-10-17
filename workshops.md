@@ -1,4 +1,6 @@
-# Workshops
+---
+title: Workshops
+---
 
 CSUA has hosted workshops to teach people important skills. Here are some topics that have been taught.
 

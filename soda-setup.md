@@ -1,4 +1,6 @@
-# How to Setup Soda
+---
+title: Soda setup
+---
 
 Start with a fresh debian image
 Run: apt update  

@@ -1,4 +1,6 @@
-# Politburo
+---
+title: Politburo
+---
 
 > Komrade! Let it be known that, in the era of Glasnost, the Ex-comm of the CSUA was renamed by the will of the people! That is how the Ex-comm was become the politbyuro, or politburo in the weak tongue of the American demons! All praise the people's will! All praise the mighty politburo!
 
