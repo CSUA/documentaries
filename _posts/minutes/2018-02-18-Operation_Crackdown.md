@@ -101,144 +101,90 @@ Breaking User Passwords
 Crackdown.py
 ------------
 
-[[https://pastebin.com/i5edsDfX]{.underline}](https://pastebin.com/i5edsDfX)
-
+[https://pastebin.com/i5edsDfX](https://pastebin.com/i5edsDfX)
+```python
+# crackdown.py
+# robert quitt 2/18/18
+# requires: jinja2, ldap3
+# working on python 2.7.14
 import sys
-
 import argparse
-
 import os.path
-
 from getpass import getuser, getpass
-
 from subprocess import Popen, PIPE, STDOUT
 
 from jinja2 import Environment, FileSystemLoader
+from ldap3 import Server, Connection, ALL, ALL_ATTRIBUTES, MODIFY_REPLACE
 
-from ldap3 import Server, Connection, ALL, ALL\_ATTRIBUTES,
-MODIFY\_REPLACE
-
-LDAP\_SERVER = \"ldaps://ldap.csua.berkeley.edu\"
-
-LDAP\_USER =
-\"uid={0},ou=People,dc=csua,dc=berkeley,dc=edu\".format(getuser())
-
-LDAP\_PASSWORD = \"\"
+LDAP_SERVER = "ldaps://ldap.csua.berkeley.edu"
+LDAP_USER = "uid={0},ou=People,dc=csua,dc=berkeley,dc=edu".format(getuser())
+LDAP_PASSWORD = ""
 
 def sendmail(address, subject, body, verbose=True):
+    mailx_cmd = ['mailx', '-s', subject, address]
+    if verbose:
+        mailx_cmd.insert(-1, '-v')
 
-mailx\_cmd = \[\'mailx\', \'-s\', subject, address\]
+    mailx_proc = Popen(mailx_cmd, stdin=PIPE, stdout=PIPE)
+    mailx_proc.communicate(input=body.encode())
+    print("Mail sent to {0}".format(address))
 
-if verbose:
+def ldap_auth():
+    s = Server(LDAP_SERVER, get_info=ALL)
+    c = Connection(s, user=LDAP_USER, password=getpass("LDAP Password: "))
+    return c
 
-mailx\_cmd.insert(-1, \'-v\')
-
-mailx\_proc = Popen(mailx\_cmd, stdin=PIPE, stdout=PIPE)
-
-mailx\_proc.communicate(input=body.encode())
-
-print(\"Mail sent to {0}\".format(address))
-
-def ldap\_auth():
-
-s = Server(LDAP\_SERVER, get\_info=ALL)
-
-c = Connection(s, user=LDAP\_USER, password=getpass(\"LDAP Password:
-\"))
-
-return c
-
-def ldap\_lock(user, c):
-
-\"\"\"Equivalent to passwd \--lock but in ldap\"\"\"
-
-search\_filter = \'(uid={0})\'.format(user)
-
-base\_dn = \"dc=csua,dc=berkeley,dc=edu\"
-
-dn=\"uid={0},ou=people,dc=csua,dc=berkeley,dc=edu\".format(user)
-
-if c.bind():
-
-c.search(base\_dn, search\_filter, attributes=\[\'userPassword\'\])
-
-userPassword = str(c.entries\[0\].userPassword)
-
-dn = str(c.response\[0\]\[\'dn\'\])
-
-if not userPassword.endswith(\'!\'):
-
-userPassword += \'!\'
-
-changes = {\'userPassword\': \[(MODIFY\_REPLACE, \[userPassword\])\]}
-
-c.modify(dn, changes)
-
-c.unbind()
-
-print(\'Locked user {0}\'.format(user))
-
-return True
-
-else:
-
-print(\'User {0} already locked.\'.format(user))
-
-c.unbind()
-
-return False
-
-print(\'Failed to bind to ldap!\')
-
-return False
+def ldap_lock(user, c):
+    """Equivalent to passwd --lock but in ldap"""
+    search_filter = '(uid={0})'.format(user)
+    base_dn = "dc=csua,dc=berkeley,dc=edu"
+    dn="uid={0},ou=people,dc=csua,dc=berkeley,dc=edu".format(user)
+    if c.bind():
+        c.search(base_dn, search_filter, attributes=['userPassword'])
+        userPassword = str(c.entries[0].userPassword)
+        dn = str(c.response[0]['dn'])
+        if not userPassword.endswith('!'):
+            userPassword += '!'
+            changes = {'userPassword': [(MODIFY_REPLACE, [userPassword])]}
+            c.modify(dn, changes)
+            c.unbind()
+            print('Locked user {0}'.format(user))
+            return True
+        else:
+            print('User {0} already locked.'.format(user))
+            c.unbind()
+            return False
+    print('Failed to bind to ldap!')
+    return False
 
 def main():
+    parser = argparse.ArgumentParser(description="Send an email from a template")
+    subparsers = parser.add_subparsers(dest='cmd')
 
-parser = argparse.ArgumentParser(description=\"Send an email from a
-template\")
+    mail_parser = subparsers.add_parser('mail')
+    mail_parser.add_argument('subject')
+    mail_parser.add_argument('template_name')
+    mail_parser.add_argument('userfile')
+    lock_parser = subparsers.add_parser('lock')
+    lock_parser.add_argument('userfile')
 
-subparsers = parser.add\_subparsers(dest=\'cmd\')
+    args = parser.parse_args()
 
-mail\_parser = subparsers.add\_parser(\'mail\')
+    if args.cmd == 'mail':
+        env = Environment(loader=FileSystemLoader(os.path.dirname(args.template_name)))
+        template = env.get_template(args.template_name)
+        for username in open(args.userfile):
+            username = username.strip()
 
-mail\_parser.add\_argument(\'subject\')
+            body = template.render(username=username)
+            sendmail('{0}@csua.berkeley.edu'.format(username), args.subject, body)
 
-mail\_parser.add\_argument(\'template\_name\')
+    elif args.cmd == 'lock':
+        c = ldap_auth()
+        for user in open(args.userfile):
+            user = user.strip()
+            ldap_lock(user, c)
 
-mail\_parser.add\_argument(\'userfile\')
-
-lock\_parser = subparsers.add\_parser(\'lock\')
-
-lock\_parser.add\_argument(\'userfile\')
-
-args = parser.parse\_args()
-
-if args.cmd == \'mail\':
-
-env =
-Environment(loader=FileSystemLoader(os.path.dirname(args.template\_name)))
-
-template = env.get\_template(args.template\_name)
-
-for username in open(args.userfile):
-
-username = username.strip()
-
-body = template.render(username=username)
-
-sendmail(\'{0}@csua.berkeley.edu\'.format(username), args.subject,
-body)
-
-elif args.cmd == \'lock\':
-
-c = ldap\_auth()
-
-for user in open(args.userfile):
-
-user = user.strip()
-
-ldap\_lock(user, c)
-
-if \_\_name\_\_ == \'\_\_main\_\_\':
-
-main()
+if __name__ == '__main__':
+    main()
+```
