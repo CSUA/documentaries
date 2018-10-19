@@ -4,9 +4,7 @@ title: Meeting Minutes
 permalink: /minutes/
 ---
 <ul>
-{% for page in site.pages %}
-{% if page.type == "minutes" %}
-<li><a href="{{ page.url | relative_url }}">{{ page.url | remove_first: "/minutes/" | url_decode }}</a></li>
-{% endif %}
+{% for post in site.posts %}
+<li><a href="{{ post.url | relative_url }}">Last Edited: {{ post.date | date: "%m/%d/%Y" }} {{ post.title }}</a></li>
 {% endfor %}
 </ul>
