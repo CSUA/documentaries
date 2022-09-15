@@ -29,4 +29,7 @@ The politburo is the executive committee of the CSUA.
 |Fall 2019|Robert|Bassam Safadi|Ben Wu|Charles Sun|Steve Li|Ani|Catherine Cang
 |Spring 2020|Robert|Bassam|Kuhu Sharma|Charles|Richard|Sean|Sahil Gupta
 |Fall 2020|Ani|Nithin|Kuhu|Charles|Richard|Sean|Rosalie Fang
-|Spring 2021|Kuhu|Ani|Brendan|Charles|Richard|Madison Bohannan|Rosalie
+|Spring 2021|Kuhu|Ani|Brendan Brenner|Charles|Richard|Madison Bohannan|Rosalie
+|Fall 2021|Kuhu|Daniel|Brendan|Conner Mi|Rahul|Sofia|Rosalie
+|Spring 2022|Kuhu|James DeLoye and Will Giorza|Rosalie|Conner|Brendan|Giselle Fuchs|Elana Ho
+|Fall 2022|Rosalie|Will|Claire Wen|Kuhu|Brendan|Giselle|Elana
